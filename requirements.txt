@@ -1,0 +1,7 @@
+tk
+os
+cryptography
+threaded
+cffi
+pyglet
+playsound
